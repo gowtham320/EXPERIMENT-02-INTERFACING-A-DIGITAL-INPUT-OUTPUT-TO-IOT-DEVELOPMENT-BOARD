@@ -341,6 +341,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
+<img width="527" height="712" alt="Screenshot 2026-09-12 095809" src="https://github.com/user-attachments/assets/06b151de-ac33-4c38-b565-1ddc32535f94" />
+
 <img width="1914" height="822" alt="ChatGPT Image Sep 12, 2026, 09_51_06 AM" src="https://github.com/user-attachments/assets/b5ecee96-fa81-4892-a8e9-46012c32c4e0" />
 
 
